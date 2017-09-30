@@ -1,0 +1,80 @@
+h1{
+  position: absolute;
+  top: 65px;
+  font-family: Lobster;
+  font-size: 65px;
+  margin-left: 20px;
+}
+
+button {
+    background-color: #FF3737; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+    border-style: outset;
+    border-width: 6px;
+    border-color: #FFEDC8;
+    border-radius: 6px;
+}
+
+p{
+  font-family: Manuale;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.b2 {
+  margin-left: 10px;
+}
+.b1{
+  margin-left: 50px;
+}
+
+.bb {
+  margin-left: 250px;
+}
+div {
+  border: 8px solid #FF3737;
+  border-radius: 10px;
+  border-style: outset;
+  padding: 10px;
+  margin: auto;
+  margin-top: 100px;
+  width: 50%
+}
+
+#grad {
+  background: red; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(right bottom, #FFDADA, #FFB9B9); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(top left, #FFDADA, #FFB9B9); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(top left, #FFDADA, #FFB9B9); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to top left, #FFDADA, #FFB9B9); /* Standard syntax */
+}
+
+#go{
+  font-family: serif;
+  font-style: normal;
+  font-size: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-family: Dancing Script;
+  font-size: 45px;
+  font-style: italic;
+}
+
+input {
+    background-color: white;
+    color: black;
+    border: 4px solid #FF3737;
+    margin-left: 250px;
+    border-radius: 10px;
+    height: 40px;
+    }
